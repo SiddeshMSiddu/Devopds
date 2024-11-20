@@ -13,7 +13,7 @@ namespace pascal
             int[,] arr = new int[5, 5];
             for(int i = 0; i<5; i++)
             {
-                for(int k = 5; k > i; m--)
+                for(int k = 5; k > i; n--)
                 {
                      Console.Write("t");
                 }
