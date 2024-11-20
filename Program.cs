@@ -11,7 +11,7 @@ namespace pascal
         static void Main(string[] args)
         {
             int[,] arr = new int[5, 5];
-            for(int i = 0; i<5; i++)
+            for(int a = 0; i<5; i++)
             {
                 for(int j = 5; k > i; k--)
                 {
